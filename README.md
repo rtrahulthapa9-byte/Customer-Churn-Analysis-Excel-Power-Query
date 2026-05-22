@@ -16,6 +16,7 @@ In this project, I created a customer churn dashboard to analyze customer subscr
 I imported the dataset from Kaggle, which contained 10 columns and 2,800 rows. After importing the data, I cleaned the messy dataset using Power Query to improve data quality and consistency.To perform time-based analysis, I extracted the Month and Year from the dataset, which helped me analyze customer churn and behavior trends over different periods.
 
 **Problem Statement**
+
 Companies often struggle to understand why customers stop using their services. Although the data contains valuable insights, it is difficult to identify customer churn, engagement trends, revenue performance, and payment or support issues without proper analysis. The challenge was to create a dashboard that simplifies complex data and provides clear, actionable business insights.
 
 **Project Goal**
