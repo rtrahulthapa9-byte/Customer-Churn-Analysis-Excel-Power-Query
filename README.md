@@ -1,5 +1,5 @@
 # Chustomer Churn Analysis-Excel-Power Query
-![My Image](https://github.com/rtrahulthapa9-byte/Customer-Churn-Analytics-Excel-Power-Query/blob/b23f261b6f7451a014ad27deb634d9c41859a61c/Screenshot%202026-05-22%20125053.png)
+![My Image](https://github.com/rtrahulthapa9-byte/Customer-Churn-Analysis-Excel-Power-Query/blob/ce129d12297b262be1166048e59ae7fb5ecd4e36/Screenshot%202026-07-16%20121240.png)
 An end-to-end analysis of 2,800 subscription customers — identifying why customers leave and what drives retention across Basic, Standard, and Premium plans.
 
 **Total Customer**: 2800      **Time Period**:2023-2024     **Data Source**:Kaggle     **Tools Used**:Excel-Power Query
