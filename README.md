@@ -22,6 +22,4 @@ The objective of this project was to analyze customer churn patterns, monitor cu
 
 
 
-I analyzed customer behavior by comparing churn status with payment failures, support tickets, and subscription plans. Through visual analysis, I found that repeated payment failures and higher support issues were major factors influencing customer churn. I also discovered that although the Premium plan generated higher revenue and customers, it showed higher churn, highlighting the need for better customer retention strategies.
-
 
