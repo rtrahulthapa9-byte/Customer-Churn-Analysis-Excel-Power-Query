@@ -1,5 +1,5 @@
 
-![My Image](https://github.com/rtrahulthapa9-byte/Customer-Churn-Analysis-Excel-Power-Query/blob/7eae914aea4dab3fb37538a5f44a938e123a9339/Screenshot%202026-09-09%20212939.png)
+![My Image](https://github.com/rtrahulthapa9-byte/Customer-Churn-Analysis-Excel-Power-Query/blob/212d41cb4701a3922989102124093b856b342727/Screenshot%202026-09-09%20213357.png)
 
 
 ## Customer Churn Analysis: MIS Report
