@@ -2,36 +2,64 @@
 ![My Image](https://github.com/rtrahulthapa9-byte/Customer-Churn-Analysis-Excel-Power-Query/blob/212d41cb4701a3922989102124093b856b342727/Screenshot%202026-09-09%20213357.png)
 
 
-## Customer Churn Analysis: MIS Report
-A sample Management Information System (MIS) report built to demonstrate reporting and data analysis skills, based on a public subscription-customer dataset. This is a portfolio project, not an actual business deliverable.
-
-#### Report Overview
-* Report Type: Management Information System (MIS) Report
-* Report Period: 2023 – 2024
-* Dataset: 2,800 subscription customers (Basic, Standard, Premium plans)
-* Data Source: Kaggle (public dataset)
-* Tools Used: MS Excel, Power Query
 
 
-#### Objective
-To summarize customer churn trends across subscription plans in a format management could act on highlighting key risk areas and recommending next steps for a retention team.
-
-#### Key Observations
-* Premium plan generates 54% of total revenue but also carries the highest churn share 34%
-* Standard plan customers log the highest weekly usage (21h 30m) but still churn at 33%, similar to Basic
-* Churn rate reached its highest recorded level in 2024, despite a slightly larger customer share churning in 2023
-* Churn nearly doubles (11% → 20%) once a customer has 2+ failed payments
-* Quarterly churn stayed stable between 23%–26%, with Q1 lowest
-
-#### Recommended Action Points
-* Focus on retaining Premium plan customers, since they bring in the most revenue.
-* Alert customers right after their first failed payment, instead of waiting for more failures.
-* Check why Standard plan users still leave despite high usage — try surveys to find out.
-* Look into what changed in 2024 (pricing, competitors, service) that caused higher churn.
 
 
-#### Conclusion
-Most of the churn is coming from the Premium plan, and it's more linked to payment failures than to low usage or the time of year. Fixing payment failures early and focusing on Premium customers are the two easiest ways to reduce customer loss going forward.
+
+
+
+
+
+# Customer Churn Analysis Using Microsoft Excel
+
+## 📌 Project Overview
+
+This project analyzes 10,000 customer records using Microsoft Excel to understand customer churn, identify high-risk customer groups, and measure revenue loss.
+
+The report uses Excel formulas, tables, and charts to analyze churn across subscription plans, regions, age groups, customer tenure, and support tickets.
+
+## 🎯 Project Objectives
+
+- Calculate customer churn and retention rates.
+- Identify customer groups with high churn rates.
+- Analyze churn by subscription plan, region, age, and tenure.
+- Measure revenue loss caused by customer churn.
+- Present key findings through an Excel report to support business decisions.
+
+## 📊 Key Insights
+
+- **Overall Churn Rate:** 18.7% of customers (1,869 out of 10,000) have churned.
+- **Subscription Plan:** The Basic plan has the highest churn rate at 32%.
+- **Region:** The North region has the highest churn rate at 24%.
+- **Age Group:** Customers aged 18–25 have the highest churn rate at 28%.
+- **Customer Tenure:** Customers with 0–3 months of tenure have the highest churn rate at 36%.
+- **Support Tickets:** Customers with 6–7 support tickets have a 51% churn rate. However, this group includes only 35 customers.
+- **Revenue Loss:** The analysis identifies ₹13.7 million in lost revenue associated with customer churn.
+
+## 💡 Recommendations
+
+- Improve onboarding for new customers.
+- Review the pricing and features of the Basic plan.
+- Investigate the reasons for higher churn in the North region.
+- Improve customer support and resolve repeated complaints.
+- Provide suitable plans and retention offers to customers at risk of leaving.
+
+## 🛠️ Tools and Skills Used
+
+- Microsoft Excel
+- Excel Formulas
+- Power Query
+- Data Analysis
+- Customer Churn Analysis
+
+
+
+
+## 📝 Conclusion
+
+This project demonstrates how Microsoft Excel can be used to analyze customer data, identify churn patterns, and generate useful business insights. The findings support data-driven decisions to improve customer retention and reduce churn.
+
 
 
 
