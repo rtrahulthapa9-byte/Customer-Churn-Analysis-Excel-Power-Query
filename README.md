@@ -17,7 +17,7 @@
 
 This project analyzes 10,000 customer records using Microsoft Excel to understand customer churn, identify high-risk customer groups, and measure revenue loss.
 
-The report uses Excel formulas, tables, and charts to analyze churn across subscription plans, regions, age groups, customer tenure, and support tickets.
+The report uses Excel formulas to analyze churn across subscription plans, regions, age groups, customer tenure, and support tickets.
 
 ## 🎯 Project Objectives
 
