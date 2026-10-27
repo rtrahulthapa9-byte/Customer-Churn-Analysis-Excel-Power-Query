@@ -1,5 +1,5 @@
 
-![My Image](https://github.com/rtrahulthapa9-byte/Customer-Churn-Analysis-Excel-Power-Query/blob/212d41cb4701a3922989102124093b856b342727/Screenshot%202026-09-09%20213357.png)
+![My Image](https://github.com/rtrahulthapa9-byte/Customer-Churn-Analysis-Excel-Power-Query/blob/4fa84aac3b96c6f1af13fa607435cef068ac05e8/Report.png)
 
 
 
